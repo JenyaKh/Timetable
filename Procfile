@@ -1,1 +1,1 @@
-web: gunicorn pure-headland-70258.wsgi --log-file -
+web: gunicorn timetable_main.wsgi --log-file -
